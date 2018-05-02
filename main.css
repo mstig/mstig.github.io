@@ -1,16 +1,16 @@
 
 h1 {
 color: green;   
-font-size: 34; 
+font-size: 34px; 
 }
 
 p {
     background-color: rebeccapurple;
-    font-size: 18;
-    color: white
+    font-size: 18px;
+    color: white;
 
 }
 
 a {
-    font-size: 16;
+    font-size: 16px;
 }
